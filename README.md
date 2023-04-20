@@ -7,6 +7,7 @@
 ![архитектура БД](https://user-images.githubusercontent.com/123110865/233460105-7e5247c9-0077-422c-b0c3-7fddd16db7c6.png)
 
 **Описание таблиц и их атрибутного состава:**
+
 **CURRENCY** - таблица содержащая информацию о валютах. Способо обновления - SCD1;
 
 ![image](https://user-images.githubusercontent.com/123110865/233463879-97e73185-a20f-4f5f-80ce-5bf1bc37dfd7.png)
